@@ -1,4 +1,4 @@
 node-test
 =========
 
-A bunch of test with Node.js
+A bunch of tests with Node.js
