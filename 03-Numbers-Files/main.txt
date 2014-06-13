@@ -1,0 +1,2 @@
+This is a text file that Node will send to the browser.
+This is the URL that needs to be passed -- http://localhost:8124/?file=main
